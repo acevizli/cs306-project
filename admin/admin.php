@@ -17,7 +17,7 @@
     </head>
     <body>
     <div>
-    <a href="http://localhost/cs306-project-step-4/shopping-website-template/index.php" class="btn btn-primary btn-lg active" role="button"
+    <a href="../shopping-website-template/index.php" class="btn btn-primary btn-lg active" role="button"
         aria-pressed="true">Main Page</a>
         </div>
         <?php 
